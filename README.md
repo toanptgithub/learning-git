@@ -1,3 +1,3 @@
 # learning-git
 
-learing how to use git
+toanpt learing how to use git 
